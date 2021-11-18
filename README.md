@@ -25,10 +25,6 @@ Imagens codificadas em BASE64 pode ser usadas diretamente dentro do html de sua 
 
 Em ambos os casos será a exibição de uma imagem na tela, mas no primeiro é necessário ter a imagem *heart.png* hospedada em um servidor, já no segundo a imagem está codificada neste amontoado de letras que só o computador entende.
 
-**Resultado:**
-
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAnUlEQVRYhe2VyxGAIAxE0ZKgFC1TS4GW9K58NskyXPKOTAhvBtiE4DjOYrZRwRXj8107S/ntQ+tEArWmteZoHSzQa1hrPqrvSZgEJLQkdvZBUqYKHDmvFUBwgWkCyP03BZAEQw6/UxrWqpNQgjiImCKqKGZJmIeRRQJ9R+rHZpmAFIGWhPQHUXNA831pAtrsoAhYg0sNI6iWDyNnOS+NLETOLiFClgAAAABJRU5ErkJggg==" />
-
 ## Como ter o CONVERSOR DE IMAGEM PARA BASE64 em seu computador
 
 É necessário ter o python em sua máquina. Provavelmente você já tem ele. Se não tiver adquira-o gratuitamente no site oficial: [https://www.python.org/](https://www.python.org/)...
